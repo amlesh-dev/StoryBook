@@ -10,7 +10,9 @@
     "@types/node": "^16.18.23",
     "@types/react": "^18.0.35",
     "@types/react-dom": "^18.0.11",
+    "bootstrap": "^5.2.3",
     "react": "^18.2.0",
+    "react-bootstrap": "^2.7.4",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
     "typescript": "^4.9.5",
@@ -39,5 +41,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+    "devDependencies": {
+       "eslint": "^8.26.0",
+      "eslint-config-prettier": "^8.5.0",
+      "eslint-config-react-app": "^7.0.1",
+      "eslint-config-standard-with-typescript": "^23.0.0",
+      "eslint-plugin-import": "^2.26.0",
+      "eslint-plugin-n": "^15.4.0",
+      "eslint-plugin-promise": "^6.1.1",
+      "eslint-plugin-react": "^7.31.10",
+      "eslint-plugin-react-hooks": "^4.6.0",
+      "prettier": "^2.7.1"
+    }
 }
